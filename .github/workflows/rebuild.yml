@@ -1,0 +1,11 @@
+name: Rebuild site
+on:
+  push:
+    branches: [main]
+    paths: ['posts/**']
+  workflow_dispatch:
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - run: curl -fsS -X POST -d '{}' "${{ secrets.NETLIFY_BUILD_HOOK }}"
