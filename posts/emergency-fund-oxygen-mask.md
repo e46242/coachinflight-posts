@@ -4,6 +4,8 @@ date: 2026-10-25
 description: "Why flight attendants and ground crew need an emergency fund, how much to aim for, where to keep it, and what actually counts as an emergency."
 tags: [money, emergency-fund, crew-life]
 draft: false
+image: /blog/emergency-fund-oxygen-mask.png
+imageAlt: "An oxygen mask drops from an overhead cabin panel above a piggy bank and a stack of cash, on a navy background."
 ---
 
 If you've ever sat through a safety briefing, you already know this rule:
