@@ -4,6 +4,8 @@ date: 2026-10-13
 description: "A simple 80/20 bucket budget for flight attendants and ground crew whose pay swings from month to month."
 tags: [money, crew-life]
 draft: false
+image: /blog/reserve-pay-budget-flight-attendants.png
+imageAlt: "Two bar charts, a big month and a smaller reserve month, each split 80% to essentials and 20% to savings and goals."
 ---
 
 For a lot of crew (flight attendants on reserve, ramp and ground crew picking up shifts), budgeting can feel like trying to navigate through turbulence. One month you're flying big hours; the next you're sitting reserve on guarantee.
